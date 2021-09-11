@@ -1,1 +1,1 @@
-# Vualization-by-choropleth-maps
+# Visualization-by-choropleth-maps
